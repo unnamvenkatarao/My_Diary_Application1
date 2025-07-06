@@ -87,6 +87,10 @@
 ### ❌ After Delete Entry
 ![Delete Entry](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/AfterDelete.png?raw=true)
 
+
+### 🔐 User Logout/Signout
+![Register](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/Registration.png?raw=true)
+
 ---
 
 ## 📎 License
@@ -98,5 +102,5 @@ This project is developed for educational purposes. You may use, modify, or shar
 ## 🙋‍♂️ Author
 
 **Unnam Venkata Rao**  
-GitHub: [Your GitHub Profile Link]
+GitHub: [https://github.com/unnamvenkatarao/My_Diary_Application/]
 
