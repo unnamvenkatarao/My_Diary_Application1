@@ -44,8 +44,8 @@
 
 ## 📷 Output Screenshots
 
-### 🔐 Login Page
-![Login](https://github.com/user-attachments/assets/33b66ce2-d9e3-412f-87f1-32311cd57981)
+### 🔐 User Registration
+![Login](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/Registration.png?raw=true)
 
 
 ### 📝 Add Entry
