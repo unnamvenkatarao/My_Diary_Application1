@@ -45,8 +45,8 @@
 ## 📷 Output Screenshots
 
 ### 🔐 Login Page
-![Login Page](![Login](https://github.com/user-attachments/assets/4441f588-552e-486c-a685-0a50bf4d600a)
-)
+![Login](https://github.com/user-attachments/assets/33b66ce2-d9e3-412f-87f1-32311cd57981)
+
 
 ### 📝 Add Entry
 ![Add Entry](![Registration](https://github.com/user-attachments/assets/96812e0c-3b83-4c28-9204-286b142be115)
