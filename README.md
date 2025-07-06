@@ -45,21 +45,47 @@
 ## 📷 Output Screenshots
 
 ### 🔐 User Registration
-![Login](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/Registration.png?raw=true)
+![Register](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/Registration.png?raw=true)
+
+
+### 🔓 User Login
+![Register](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/Login.png?raw=true)
+
+
+### 📖 After Login
+![View Entries](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/AfterFreshLogin.png?raw=true)
 
 
 ### 📝 Add Entry
-![Add Entry](![Registration](https://github.com/user-attachments/assets/96812e0c-3b83-4c28-9204-286b142be115)
-)
+![Add Entry](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/AddEntry.png?raw=true)
+
+
+### 📝 After Add Entry
+![Add Entry](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/AfterAddEntry.png?raw=true)
+
+
+### 📝 After First Entry
+![Add Entry](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/AfterFirstEntry.png?raw=true)
+
 
 ### 📖 View Entries
-![View Entries](./screenshots/view-entries.png)
+![View Entries](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/ViewEntry.png?raw=true)
+
 
 ### ✏️ Update Entry
-![Update Entry](./screenshots/update-entry.png)
+![Update Entry](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/UpdateEntry.png?raw=true)
 
-### ❌ Delete Entry
-![Delete Entry](./screenshots/delete-entry.png)
+
+### ✏️ After Update Entry
+![Update Entry](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/AfterUpdate.png?raw=true)
+
+
+### ❌Before Delete Entry
+![Delete Entry](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/BeforeDelete.png?raw=true)
+
+
+### ❌ After Delete Entry
+![Delete Entry](https://github.com/unnamvenkatarao/My_Diary_Application1/blob/Main/AfterDelete.png?raw=true)
 
 ---
 
